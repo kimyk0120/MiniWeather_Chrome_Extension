@@ -5,6 +5,9 @@
 이 확장은 **Flutter Web**으로 개발되었으며, 빠른 속도와 직관적인 UI를 최우선으로 고려했습니다.
 
 
+![MiniWeather UI](./screenshot2.png)
+
+
 ## 🔍 주요 기능
 
 - 📍 **자동 위치 감지**  
