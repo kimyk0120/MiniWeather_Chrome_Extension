@@ -6,7 +6,7 @@
 
 
 ![MiniWeather UI](./screenshot2.png)
-
+![MiniWeather UI2](./스크린샷 2025-08-02 20.39.23.png)
 
 ## 🔍 주요 기능
 
