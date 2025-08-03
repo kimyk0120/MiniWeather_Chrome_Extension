@@ -5,7 +5,7 @@
 이 확장은 **React**로 개발되었으며, 빠른 속도와 직관적인 UI를 최우선으로 고려했습니다.
 
 
-<img src="./screenshot2.png" alt="MiniWeather UI" width="200"/>
+<img src="./screenshot2.png" alt="MiniWeather UI" width="300"/>
 <img src="./mini2.png" alt="MiniWeather UI2" width="200"/>
 
 ## 🔍 주요 기능
